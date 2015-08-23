@@ -133,9 +133,28 @@ ul.list-group li:hover {
 .linkedin {
   background-color: #0976b4;
 }
+.facebook {
+  background-color: #3b5998;
+}
+.instagram {
+  background-color: #517fa4;
+}
+.flickr {
+  background-color: #0063DC;
+}
+.google {
+  background-color: #dd4b39;
+}
+.youtube {
+  background-color: #bb0000;
+}
+.pinterest {
+  background-color: #cb2027;
+}
 .github {
   background-color: #000;
 }
 .mail {
-  background-color: #dd4b39;
+  background-color: #eaeaea;
+  color: #db5047;
 }
