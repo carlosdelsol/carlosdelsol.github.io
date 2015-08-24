@@ -162,6 +162,10 @@ ul.list-group li:hover {
 .medium {
   background-image: url(dist/icons/medium.png);
 }
+.skype {
+  background-image: url(dist/icons/skype.png);
+  color: #db5047;
+}
 .mail {
   background-image: url(dist/icons/email.png);
   color: #db5047;
