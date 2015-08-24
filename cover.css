@@ -159,6 +159,9 @@ ul.list-group li:hover {
 .github {
   background-image: url(dist/icons/github.png);
 }
+.medium {
+  background-image: url(dist/icons/medium.png);
+}
 .mail {
   background-image: url(dist/icons/email.png);
   color: #db5047;
